@@ -1,0 +1,16 @@
+@font-face {
+  font-family: 'Averia';
+  src: local('Averia'),
+    url(../assets/fonts/Averia\ Serif\ Libre.ttf) format('truetype');
+}
+
+.btn,
+.counter {
+  font-size: 1.5rem;
+  font-family: Averia, fantasy;
+}
+
+.btn {
+  cursor: pointer;
+  padding: 0 25px;
+}
